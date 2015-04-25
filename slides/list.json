@@ -14,113 +14,17 @@
       }
     },
     {
+      "filename": "intro/rupl.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "rupl"
+      }
+    },
+    {
       "filename": "intro/is.md",
       "attr": {
         "data-state": "intro",
         "id": "is"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "extend/index.md",
-      "attr": {
-          "data-state": "extend",
-          "id": "extends"
-      }
-    },
-    {
-      "filename": "extend/wrong.md",
-      "attr": {
-          "data-state": "extend",
-          "id": "whats-wrong-with-extends"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "mixins/index.md",
-      "attr": {
-          "data-state": "mixins",
-          "id": "mixins"
-      }
-    },
-    {
-      "filename": "mixins/huh.md",
-      "attr": {
-          "data-state": "mixins",
-          "id": "huh-yeah-that"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "slow/index.md",
-      "attr": {
-          "data-state": "slow",
-          "id": "slowly-so-slow"
-      }
-    },
-    {
-      "filename": "slow/compile.md",
-      "attr": {
-          "data-state": "slow",
-          "id": "i-think-there-is-an-xkcd-for-this"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "libsass/index.md",
-      "attr": {
-          "data-state": "libsass",
-          "id": "libsassy"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "post/index.md",
-      "attr": {
-          "data-state": "post",
-          "id": "post-apocalyptic-sass"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "wrap/index.md",
-      "attr": {
-          "data-state": "wrap",
-          "id": "why-are-you-talking-at-a-sass-event"
-      }
-    },
-    {
-      "filename": "wrap/hype-and-retweets.md",
-      "attr": {
-          "data-state": "wrap",
-          "id": "the-sky-is-not-falling"
-      }
-    },
-    {
-      "filename": "wrap/mature.md",
-      "attr": {
-          "data-state": "wrap",
-          "id": "people-put-thought-into-it"
-      }
-    },
-    {
-      "filename": "wrap/community.md",
-      "attr": {
-          "data-state": "wrap",
-          "id": "these-people-are-the-bomb"
-      }
-    },
-    {
-      "filename": "wrap/haters.md",
-      "attr": {
-          "data-state": "wrap",
-          "id": "hate-hate-hate"
       }
     }
   ]
