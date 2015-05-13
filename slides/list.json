@@ -27,5 +27,155 @@
         "id": "is"
       }
     }
+  ],
+  [
+    {
+      "filename": "culture/quote.md",
+      "attr": {
+        "data-state": "culture",
+        "id": "quote"
+      }
+    },
+    {
+      "filename": "culture/what.md",
+      "attr": {
+        "data-state": "culture",
+        "id": "what-is-it"
+      }
+    },
+    {
+      "filename": "culture/is.md",
+      "attr": {
+        "data-state": "culture",
+        "id": "culture"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "everybody/everybody.md",
+      "attr": {
+        "data-state": "everybody",
+        "id": "everybody"
+      }
+    },
+    {
+      "filename": "everybody/yes.md",
+      "attr": {
+        "data-state": "everybody",
+        "id": "yes-everybody"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "buyin/onboard.md",
+      "attr": {
+        "data-state": "buyin",
+        "id": "on-board"
+      }
+    },
+    {
+      "filename": "buyin/cxo.md",
+      "attr": {
+        "data-state": "buyin",
+        "id": "cxo"
+      }
+    },
+    {
+      "filename": "buyin/po.md",
+      "attr": {
+        "data-state": "buyin",
+        "id": "po"
+      }
+    },
+    {
+      "filename": "buyin/pm.md",
+      "attr": {
+        "data-state": "buyin",
+        "id": "pm"
+      }
+    },
+    {
+      "filename": "buyin/designer.md",
+      "attr": {
+        "data-state": "buyin",
+        "id": "designer"
+      }
+    },
+    {
+      "filename": "buyin/developer.md",
+      "attr": {
+        "data-state": "buyin",
+        "id": "developer"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "choices/choices.md",
+      "attr": {
+        "data-state": "choices",
+        "id": "choices"
+      }
+    },
+    {
+      "filename": "choices/honesty.md",
+      "attr": {
+        "data-state": "choices",
+        "id": "honesty"
+      }
+    },
+    {
+      "filename": "choices/reminders.md",
+      "attr": {
+        "data-state": "choices",
+        "id": "reminders"
+      }
+    },
+    {
+      "filename": "choices/video.md",
+      "attr": {
+        "data-state": "choices",
+        "id": "video"
+      }
+    },
+    {
+      "filename": "choices/ci.md",
+      "attr": {
+        "data-state": "choices",
+        "id": "ci"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "wrap/wrap-up.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "wrap"
+      }
+    },
+    {
+      "filename": "wrap/questions.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "questions"
+      }
+    },
+    {
+      "filename": "wrap/fin.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "fin"
+      }
+    },
+    {
+      "filename": "wrap/feedback.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "feedback"
+      }
+    }
   ]
 ]
