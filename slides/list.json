@@ -120,6 +120,13 @@
       }
     },
     {
+      "filename": "choices/budgets.md",
+      "attr": {
+        "data-state": "choices",
+        "id": "budgets"
+      }
+    },
+    {
       "filename": "choices/honesty.md",
       "attr": {
         "data-state": "choices",
@@ -145,6 +152,15 @@
       "attr": {
         "data-state": "choices",
         "id": "ci"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "culture/is.md",
+      "attr": {
+        "data-state": "culture",
+        "id": "culture-2"
       }
     }
   ],
