@@ -1,3 +1,3 @@
-![Vox Product](/images/VOXPRODUCT.svg "Vox Product")
+![Vox Product](https://iamcarrico.github.io/culture-of-performance/images/VOXPRODUCT.svg "Vox Product")
 
-![Four Kitchens](/images/4k-text.svg "Four Kitchens")
+![Four Kitchens](https://iamcarrico.github.io/culture-of-performance/images/4k-text.svg "Four Kitchens")
