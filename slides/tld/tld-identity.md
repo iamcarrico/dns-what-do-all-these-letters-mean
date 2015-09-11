@@ -1,4 +1,4 @@
-<h2>TLDs as Identity</h2>
+<h2>TLD<span class="small">s<span> as Identity</h2>
 
 * yourname.com <!-- .element: class="fragment" -->
 * university.edu <!-- .element: class="fragment" -->
