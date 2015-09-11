@@ -146,10 +146,24 @@
       }
     },
     {
+      "filename": "dad/lifesavers.md",
+      "attr": {
+        "data-state": "dad",
+        "id": "lifesavers"
+      }
+    },
+    {
       "filename": "types/aaaa.md",
       "attr": {
         "data-state": "types",
         "id": "aaaa"
+      }
+    },
+    {
+      "filename": "dad/ham.md",
+      "attr": {
+        "data-state": "dad",
+        "id": "ham"
       }
     },
     {
@@ -160,10 +174,24 @@
       }
     },
     {
+      "filename": "dad/peanuts.md",
+      "attr": {
+        "data-state": "dad",
+        "id": "peanuts"
+      }
+    },
+    {
       "filename": "types/ns.md",
       "attr": {
         "data-state": "types",
         "id": "ns"
+      }
+    },
+    {
+      "filename": "dad/coops.md",
+      "attr": {
+        "data-state": "dad",
+        "id": "coops"
       }
     },
     {
@@ -174,10 +202,24 @@
       }
     },
     {
+      "filename": "dad/kleenex.md",
+      "attr": {
+        "data-state": "dad",
+        "id": "kleenex"
+      }
+    },
+    {
       "filename": "types/mx.md",
       "attr": {
         "data-state": "types",
         "id": "mx"
+      }
+    },
+    {
+      "filename": "dad/bar.md",
+      "attr": {
+        "data-state": "bar",
+        "id": "bar"
       }
     },
     {
@@ -186,8 +228,36 @@
         "data-state": "types",
         "id": "soa"
       }
+    },
+    {
+      "filename": "dad/muffler.md",
+      "attr": {
+        "data-state": "bar",
+        "id": "muffler"
+      }
+    },
+    {
+      "filename": "types/moar.md",
+      "attr": {
+        "data-state": "types",
+        "id": "moar"
+      }
+    },
+    {
+      "filename": "dad/beethoven.md",
+      "attr": {
+        "data-state": "bar",
+        "id": "beethoven"
+      }
     }
   ],
+  {
+    "filename": "dad/survivors.html",
+    "attr": {
+      "data-state": "survivors",
+      "id": "survivors"
+    }
+  },
   [
     {
       "filename": "wrap/wrap-up.md",
