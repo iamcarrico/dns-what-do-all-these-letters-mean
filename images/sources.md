@@ -9,3 +9,6 @@ From [19melissa68](https://www.flickr.com/photos/19melissa68/2839159031)
 
 **Home**
 From [NetAnimations](http://www.netanimations.net/)
+
+**Type A**
+From [The Atlantic](http://cdn.theatlantic.com/static/mt/assets/science/typeA.gif)
