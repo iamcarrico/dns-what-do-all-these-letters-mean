@@ -121,6 +121,71 @@
         "data-state": "eye-pee",
         "id": "eye-pee"
       }
+    },
+    {
+      "filename": "ip/what.md",
+      "attr": {
+        "data-state": "eye-pee",
+        "id": "ip-for-what"
+      }
+    },
+    {
+      "filename": "ip/lookup.md",
+      "attr": {
+        "data-state": "eye-pee",
+        "id": "lookups"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "types/a.md",
+      "attr": {
+        "data-state": "types",
+        "id": "a"
+      }
+    },
+    {
+      "filename": "types/aaaa.md",
+      "attr": {
+        "data-state": "types",
+        "id": "aaaa"
+      }
+    },
+    {
+      "filename": "types/cname.md",
+      "attr": {
+        "data-state": "types",
+        "id": "cname"
+      }
+    },
+    {
+      "filename": "types/ns.md",
+      "attr": {
+        "data-state": "types",
+        "id": "ns"
+      }
+    },
+    {
+      "filename": "types/txt.md",
+      "attr": {
+        "data-state": "types",
+        "id": "txt"
+      }
+    },
+    {
+      "filename": "types/mx.md",
+      "attr": {
+        "data-state": "types",
+        "id": "mx"
+      }
+    },
+    {
+      "filename": "types/soa.md",
+      "attr": {
+        "data-state": "types",
+        "id": "soa"
+      }
     }
   ],
   [
