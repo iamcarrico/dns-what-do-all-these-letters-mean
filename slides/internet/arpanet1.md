@@ -1,6 +1,6 @@
 ## Arpanet, December 1969<!-- .slide: data-transition="fade" data-transitionSpeed="fast"-->
 
-![Arpanet](/images/arpanet-1969-12.jpg "Arpanet, December 1969")<!-- .element: class="fragment" -->
+![Arpanet](https://iamcarrico.github.io/dns-what-do-all-these-letters-mean/images/arpanet-1969-12.jpg "Arpanet, December 1969")<!-- .element: class="fragment" -->
 
 Note:
 Here is a map of the very first set of connected computers on the Arpanet.

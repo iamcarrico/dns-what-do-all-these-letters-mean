@@ -116,6 +116,15 @@
   ],
   [
     {
+      "filename": "ip/addresses.md",
+      "attr": {
+        "data-state": "eye-pee",
+        "id": "eye-pee"
+      }
+    }
+  ],
+  [
+    {
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",
