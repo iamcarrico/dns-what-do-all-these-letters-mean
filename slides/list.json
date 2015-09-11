@@ -156,6 +156,13 @@
           "data-state": "tld",
           "id": "new-tld"
       }
+    },
+    {
+      "filename": "tld/tld-identity.md",
+      "attr": {
+          "data-state": "tld",
+          "id": "tld-identity"
+      }
     }
   ],
   [
