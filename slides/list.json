@@ -318,6 +318,13 @@
       }
     },
     {
+      "filename": "wrap/slides.md",
+      "attr": {
+        "data-state": "wrap",
+        "id": "slides"
+      }
+    },
+    {
       "filename": "wrap/fin.md",
       "attr": {
         "data-state": "wrap",
