@@ -14,10 +14,10 @@
       }
     },
     {
-      "filename": "intro/rupl.md",
+      "filename": "intro/milsyobtaf.md",
       "attr": {
         "data-state": "intro",
-        "id": "rupl"
+        "id": "milsyobtaf"
       }
     },
     {
@@ -30,137 +30,96 @@
   ],
   [
     {
-      "filename": "culture/quote.md",
+      "filename": "internet/arpanet.md",
       "attr": {
-        "data-state": "culture",
-        "id": "quote"
+          "data-state": "internet",
+          "id": "arpanet"
       }
     },
     {
-      "filename": "culture/what.md",
+      "filename": "internet/arpanet1.md",
       "attr": {
-        "data-state": "culture",
-        "id": "what-is-it"
+          "data-state": "internet",
+          "id": "arpanet1"
       }
     },
     {
-      "filename": "culture/is.md",
+      "filename": "internet/arpanet2.md",
       "attr": {
-        "data-state": "culture",
-        "id": "culture"
+          "data-state": "internet",
+          "id": "arpanet2"
+      }
+    },
+    {
+      "filename": "internet/arpanet3.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "arpanet3"
+      }
+    },
+    {
+      "filename": "internet/arpanet4.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "arpanet4"
+      }
+    },
+    {
+      "filename": "internet/arpanet5.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "arpanet5"
+      }
+    },
+    {
+      "filename": "internet/arpanet6.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "arpanet6"
+      }
+    },
+    {
+      "filename": "internet/arpanet7.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "arpanet7"
+      }
+    },
+    {
+      "filename": "internet/arpanet8.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "arpanet8"
+      }
+    },
+    {
+      "filename": "internet/thegibson.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "thegibson"
+      }
+    },
+    {
+      "filename": "internet/www.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "www"
+      }
+    },
+    {
+      "filename": "internet/phonebook.md",
+      "attr": {
+          "data-state": "internet",
+          "id": "phonebook"
       }
     }
   ],
   [
     {
-      "filename": "everybody/everybody.md",
+      "filename": "ip/addresses.md",
       "attr": {
-        "data-state": "everybody",
-        "id": "everybody"
-      }
-    },
-    {
-      "filename": "everybody/yes.md",
-      "attr": {
-        "data-state": "everybody",
-        "id": "yes-everybody"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "buyin/onboard.md",
-      "attr": {
-        "data-state": "buyin",
-        "id": "on-board"
-      }
-    },
-    {
-      "filename": "buyin/cxo.md",
-      "attr": {
-        "data-state": "buyin",
-        "id": "cxo"
-      }
-    },
-    {
-      "filename": "buyin/po.md",
-      "attr": {
-        "data-state": "buyin",
-        "id": "po"
-      }
-    },
-    {
-      "filename": "buyin/pm.md",
-      "attr": {
-        "data-state": "buyin",
-        "id": "pm"
-      }
-    },
-    {
-      "filename": "buyin/designer.md",
-      "attr": {
-        "data-state": "buyin",
-        "id": "designer"
-      }
-    },
-    {
-      "filename": "buyin/developer.md",
-      "attr": {
-        "data-state": "buyin",
-        "id": "developer"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "choices/choices.md",
-      "attr": {
-        "data-state": "choices",
-        "id": "choices"
-      }
-    },
-    {
-      "filename": "choices/budgets.md",
-      "attr": {
-        "data-state": "choices",
-        "id": "budgets"
-      }
-    },
-    {
-      "filename": "choices/honesty.md",
-      "attr": {
-        "data-state": "choices",
-        "id": "honesty"
-      }
-    },
-    {
-      "filename": "choices/reminders.md",
-      "attr": {
-        "data-state": "choices",
-        "id": "reminders"
-      }
-    },
-    {
-      "filename": "choices/video.md",
-      "attr": {
-        "data-state": "choices",
-        "id": "video"
-      }
-    },
-    {
-      "filename": "choices/ci.md",
-      "attr": {
-        "data-state": "choices",
-        "id": "ci"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "culture/is.md",
-      "attr": {
-        "data-state": "culture",
-        "id": "culture-2"
+        "data-state": "eye-pee",
+        "id": "eye-pee"
       }
     }
   ],
@@ -184,13 +143,6 @@
       "attr": {
         "data-state": "wrap",
         "id": "fin"
-      }
-    },
-    {
-      "filename": "wrap/feedback.md",
-      "attr": {
-        "data-state": "wrap",
-        "id": "feedback"
       }
     }
   ]
