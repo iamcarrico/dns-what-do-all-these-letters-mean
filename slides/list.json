@@ -116,6 +116,50 @@
   ],
   [
     {
+      "filename": "tld/tld.md",
+      "attr": {
+          "data-state": "tld",
+          "id": "tld"
+      }
+    },
+    {
+      "filename": "tld/arpa.md",
+      "attr": {
+          "data-state": "tld",
+          "id": "arpa"
+      }
+    },
+    {
+      "filename": "tld/cctld.md",
+      "attr": {
+          "data-state": "tld",
+          "id": "cctld"
+      }
+    },
+    {
+      "filename": "tld/idn.md",
+      "attr": {
+          "data-state": "tld",
+          "id": "idn"
+      }
+    },
+    {
+      "filename": "tld/gtld.md",
+      "attr": {
+          "data-state": "tld",
+          "id": "gtld"
+      }
+    },
+    {
+      "filename": "tld/new-tld.md",
+      "attr": {
+          "data-state": "tld",
+          "id": "new-tld"
+      }
+    }
+  ],
+  [
+    {
       "filename": "ip/addresses.md",
       "attr": {
         "data-state": "eye-pee",
